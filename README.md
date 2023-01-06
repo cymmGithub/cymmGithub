@@ -5,8 +5,8 @@
 **technologies/concepts i used already:**
 * js
 * ts
-* node
-* express
+* node.js
+* express.js
 * html
 * css
 * react
