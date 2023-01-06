@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemek, junior fullstack developer from Poland</h1>
+
 - 🌱 I’m currently learning React, and plannig to hook up with NestJs in the future.
 
 **technologies/concepts i used already:**
