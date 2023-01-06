@@ -13,8 +13,7 @@
 * sql
 * figma
 * git, github
-* DRY
-* SOLID, KISS, separaton of concerns
+* DRY, SOLID, KISS, separaton of concerns
 
 
 - 📫 How to reach me **przemswiercz@gmail.com**
