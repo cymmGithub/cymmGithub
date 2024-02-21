@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Przemek, software engineer from Poland</h1>
+<h1 align="center">Hi 👋, I'm Przemek, full-stack developer from Poland</h1>
 
 - 🌱 I’m currently learning React, and plannig to hook up with NestJs in the future.
 
