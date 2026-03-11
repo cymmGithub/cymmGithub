@@ -3,7 +3,7 @@
 
 ---
 
-Currently working at a US-based startup where I'm the sole developer behind our CI/CD pipeline — a [distributed Playwright testing system](https://github.com/soquel/minifarm) running across 12 physical machines orchestrated with Docker Swarm.
+Currently working at a US-based startup where I'm the sole developer behind our CI/CD pipeline — a [distributed Playwright testing system](https://github.com/cymmGithub/minifarm) running across 12 physical machines orchestrated with Docker Swarm.
 
 ### What I work with
 
